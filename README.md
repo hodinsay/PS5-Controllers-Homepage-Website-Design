@@ -17,3 +17,4 @@ A website showcasing the PS5 controller color designs. The website can display d
 Take a look at these couple examples that I have in my own portfolio:
 
 - **BMW Bike Website Design**: https://github.com/hodinsay/BMW-Bike-Website-Design
+- **PS4 Website Design**: https://github.com/hodinsay/PS4-Website-Design
