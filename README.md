@@ -1,4 +1,4 @@
-# PS5-Controllers-Website-Design
+# PS5 Controllers Homepage Website Design
 
 A website showcasing the PS5 controller color designs. The website can display different colors available for the PS5 controller. 
 
